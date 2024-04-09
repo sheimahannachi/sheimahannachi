@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheimahannachi&label=Profile%20views&color=0e75b6&style=flat" alt="sheimahannachi" /> </p>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning :  **machine learning**
 
-- 📫 How to reach me **sheimahannachi@gmail.com**
+- 📫 How to reach me  : **sheimahannachi@gmail.com**
 
-- ⚡ Fun fact **I'm a music enthusiast! Whether I'm unwinding after a long day or gearing up for a productive session, music is my go-to companion .**
+- ⚡ Fun fact :  **I'm a music enthusiast! Whether I'm unwinding after a long day or gearing up for a productive session, music is my go-to companion .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

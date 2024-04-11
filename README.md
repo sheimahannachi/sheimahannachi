@@ -3,7 +3,6 @@
 <img align="right" style="float: right; width: 200px;" alt="Coding" src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheimahannachi&label=Profile%20views&color=0e75b6&style=flat" alt="sheimahannachi" /> </p>
 
 - 🌱 I’m currently learning :  **machine learning**
 

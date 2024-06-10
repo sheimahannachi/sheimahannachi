@@ -1,6 +1,6 @@
+<img src="https://i.pinimg.com/originals/34/9e/f5/349ef563f60e1bbc0c2ed9842c18911c.gif" alt="Banner" style="width:100%;">
 <h1 align="center">Hi 👋, I'm sheima hannachi</h1>
 <h3 align="center">A passionate software engineering student with a keen interest in technology.</h3>
-<img align="right" style="float: right; width: 200px;" alt="Coding" src="https://i.pinimg.com/originals/92/00/18/9200189aa837cc972d9e0e0224eefa47.gif">
 
 
 

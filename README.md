@@ -1,8 +1,9 @@
-<img src="https://i.pinimg.com/originals/34/9e/f5/349ef563f60e1bbc0c2ed9842c18911c.gif" alt="Banner" width="1000" height="300">
+<img src="https://i.pinimg.com/originals/93/2f/96/932f96c04fb8925db64cbf1e0ee62a58.gif" alt="Banner" width="1000" height="350">
+
+https://github.com/sheimahannachi/sheimahannachi/assets/114298771/dc3eb228-a7dc-482c-871e-b15ef53a43dd.mp4
+
 <h1 align="center">Hi 👋, I'm sheima hannachi</h1>
 <h3 align="center">A passionate software engineering student with a keen interest in technology.</h3>
-
-
 
 - 🌱 I’m currently learning :  **machine learning**
 

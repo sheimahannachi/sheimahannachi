@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/34/9e/f5/349ef563f60e1bbc0c2ed9842c18911c.gif" alt="Banner" style="width:100%;">
+<img src="https://i.pinimg.com/originals/34/9e/f5/349ef563f60e1bbc0c2ed9842c18911c.gif" alt="Banner" width="1000" height="300">
 <h1 align="center">Hi 👋, I'm sheima hannachi</h1>
 <h3 align="center">A passionate software engineering student with a keen interest in technology.</h3>
 
